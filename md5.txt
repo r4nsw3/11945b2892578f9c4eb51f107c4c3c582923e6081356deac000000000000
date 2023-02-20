@@ -1,0 +1,4 @@
+data/00/00/00/00/00.bin	3c5e93d30b7d187e56391d7b8252db10
+data/00/00/00/00/01.bin	8a23c5ca20345d5f89ceecbaa9edd4ae
+data/00/00/00/00/02.bin	49f301dabfa5be6d82b238cace9fbd42
+data/00/00/00/00/03.bin	0fed3bfaf016e475dca7e0cb602a6acf
